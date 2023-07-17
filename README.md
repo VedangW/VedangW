@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 <!--
 **VedangW/VedangW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 💬 Ask me about traditional ML and Deep Learning models for NLP, CV, and Drug Discovery. I also know about the ML model lifecycle (feature engineering, training, deployment, monitoring) for batch and real-time inference.
 
 🌱 I'm currently interested in learning about scaling real-time ML model pipelines, Causal Inference, Search algorithms, and Generative models for Drug Discovery.
+
+### Stats
+
+![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedangW&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)
+
+![Vedang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedangW&layout=compact&theme=transparent)
+
