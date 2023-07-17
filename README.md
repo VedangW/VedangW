@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 ### Stats
 
-Only includes public repository contributions.
+![VedangW's Stats](https://github-readme-stats.vercel.app/api?username=VedangW&theme=transparent&show_icons=true&count_private=true&rank_icon=github)
 
-![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedangW&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)
+![VedangW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedangW&theme=transparent&count_private=true)
 
-![Vedang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedangW&layout=compact&theme=transparent)
-
+![VedangW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedangW&theme=transparent&show_icons=true&layout=compact&count_private=true)
