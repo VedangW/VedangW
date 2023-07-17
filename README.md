@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### Stats
 
+Only includes public repository contributions.
+
 ![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedangW&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)
 
 ![Vedang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedangW&layout=compact&theme=transparent)
