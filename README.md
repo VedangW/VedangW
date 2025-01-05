@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm currently working as a Machine Learning researcher at the [Freundlich Lab](https://njms.rutgers.edu/departments/labs/freundlich/) at Rutgers University. The goal of my research is an efficient search of drug candidates by developing ML models for Molecular Property Prediction.
+🔭 I'm a Machine Learning Engineer at TikTok, working as part of the creator monetization integrity team. My surface develops traditional and deep learning models to ensure creators follow community guidelines.
 
-💬 Ask me about traditional ML and Deep Learning models for NLP, CV, and Drug Discovery. I also know about the ML model lifecycle (feature engineering, training, deployment, monitoring) for batch and real-time inference.
+💬 Ask me about traditional ML and Deep Learning models for NLP, CV, and Drug Discovery. I also know about the production ML model lifecycle (feature engineering, training, deployment, monitoring) for batch and real-time inference. I'm also proficient in Data Science and statistics.
 
-🌱 I'm currently interested in learning about scaling real-time ML model pipelines, Causal Inference, Search algorithms, and Generative models for Drug Discovery.
+🌱 I'm learning about scaling real-time ML model pipelines, Causal Inference, Search algorithms, and Generative models.
 
 ### Stats
 
